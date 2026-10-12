@@ -1,0 +1,15 @@
+CONEXÃO SOLIDÁRIA — COMPONENTES DE FEEDBACK
+
+Extraia o ZIP e abra site/index.html no navegador. Mantenha todas as pastas.
+
+01-etiquetas-projetos.png: envie na etapa Criação de componentes de feedback, com o título Etiquetas dos projetos sociais.
+02-alertas-formulario.png: mesma etapa, título Alertas de validação do formulário.
+03-modal-confirmacao.png: mesma etapa, título Modal de cadastro demonstrativo.
+
+O site inclui variáveis CSS, Grid de 12 colunas e cinco breakpoints, Flexbox, menu responsivo e submenu, etiquetas, erros nos campos e modal nativo.
+
+Use apenas dados fictícios. Não há envio, armazenamento ou servidor. CPF, CEP e telefone são verificados apenas quanto ao formato.
+
+Para reproduzir os alertas: preencha os demais campos e informe um e-mail sem @, telefone com poucos dígitos e CEP incompleto; clique em Verificar cadastro. Corrija os campos e clique novamente para abrir o modal. Escape fecha a janela.
+
+As capturas foram produzidas a partir deste código em navegador headless. A foto ilustrativa original da ONG foi gerada por IA.

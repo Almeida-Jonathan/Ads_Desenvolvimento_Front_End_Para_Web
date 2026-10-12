@@ -1,0 +1,2 @@
+Verificação desta versão: máscaras; três campos inválidos na tentativa de envio; abertura e fechamento do modal com Escape; abertura do menu e submenu mobile; ausência de rolagem horizontal na página projetos nas larguras 390, 480, 768, 1024, 1280 e 1440px.
+Esta versão não foi submetida novamente ao W3C.
